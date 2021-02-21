@@ -6,7 +6,7 @@ nav{
     display: flex;
     align-items:baseline;
     background-color:rgb(16, 20, 20);
-    width: 1423px;
+    width: 1430px;
 }
 nav div a{
     padding-left: 73px;
@@ -29,6 +29,6 @@ footer{
     flex-direction: row;
     color: white;
     height: 170px;
-    width: 1423px;
+    width: 1430px;
     border: 0;
 }
